@@ -5,5 +5,5 @@ import (
 )
 
 func Hlo() {
-	fmt.Println("hlo plo")
+	fmt.Println("hlo plo clo")
 }
